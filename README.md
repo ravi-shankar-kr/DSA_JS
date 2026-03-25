@@ -86,3 +86,105 @@ Difficulty: Easy | Topic: LOOPS
 
 Q29 – Print the sum of all even & odd numbers in a range separately
 Difficulty: Easy | Topic: LOOPS
+
+Q29. Print the sum of all even & odd numbers in a range separately.
+👉 Topic: Loops, Conditions
+👉 Level: Easy
+
+Q30. Print all the factors of a number
+👉 Topic: Loops, Number Logic
+👉 Level: Easy
+
+Q31. Print the sum of all factors of a number (Ex: 50 -> 1 + 2 + 5 + 10 + 25 = 43)
+👉 Topic: Loops, Factors
+👉 Level: Medium
+
+Q32. Check if the number is Prime or not.
+👉 Topic: Prime Number, Loops
+👉 Level: Easy
+
+Q33. Write a program to take two inputs a, b & find the value of a raised to the power of b. (Ex: a = 2, b = 5 → 2^5 = 32)
+👉 Topic: Math, Loops / Power
+👉 Level: Medium
+
+Q34. Separate each digit of a number and print it on a new line (Ex: 123 → 3, 2, 1)
+👉 Topic: Number Manipulation
+👉 Level: Easy
+
+Q35. Sum of digits of a number (Ex: 936 = 18)
+👉 Topic: Number Logic
+👉 Level: Easy
+
+Q36. Accept a number and print its reverse
+👉 Topic: Number Reverse
+👉 Level: Easy
+
+Q37. Accept a number and check if it is a palindromic number
+👉 Topic: Palindrome
+👉 Level: Easy
+
+Q38. Accept a number and check if it is a strong number or not
+👉 Topic: Factorial, Number Logic
+👉 Level: Medium
+
+Q39. Automorphic number
+👉 Topic: Number Logic
+👉 Level: Medium
+
+Q40. Print 'hello' until user gives wrong input using do while
+👉 Topic: do-while loop
+👉 Level: Easy
+
+Q41. Make a choice based calculator using do while
+👉 Topic: do-while, Switch/Conditions
+👉 Level: Easy
+
+Q42. Print Weekday using Switch
+👉 Topic: Switch Case
+👉 Level: Easy
+
+Q43. Check Consonant or Vowel using Switch
+👉 Topic: Switch Case
+👉 Level: Easy
+
+Q44. Project - Guess Game
+👉 Topic: Mini Project, Logic Building
+👉 Level: Medium
+
+Q45. Project - Restaurant v1.0
+👉 Topic: Mini Project, Menu Logic
+👉 Level: Medium
+
+🔺 Pattern Questions
+
+Q46. Right Triangle - Star Pattern
+👉 Topic: Pattern Printing (Loops)
+👉 Level: Easy
+
+Q47. Right Triangle - Number Pattern
+👉 Topic: Pattern Printing
+👉 Level: Easy
+
+Q48. Right Triangle - Alphabet Pattern
+👉 Topic: Pattern Printing
+👉 Level: Easy
+
+Q49. Inverted Right Triangle Pattern
+👉 Topic: Pattern Printing
+👉 Level: Easy
+
+Q50. Mirrored Right Triangle Pattern
+👉 Topic: Pattern Printing
+👉 Level: Easy
+
+Q51. Triangle Pattern
+👉 Topic: Pattern Printing
+👉 Level: Easy
+
+Q52. V Pattern
+👉 Topic: Pattern Printing
+👉 Level: Easy
+
+Q53. X Pattern
+👉 Topic: Pattern Printing
+👉 Level: Easy
