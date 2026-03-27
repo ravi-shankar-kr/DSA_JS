@@ -2,11 +2,11 @@
 // 👉 Topic: do-while loop
 // 👉 Level: Easy
 
-let n = 2;
-// let guess = Number(prompt("Enter a Num: "))
+
+
+let num;
 
 do {
+    num = Number(prompt("Enter a number (0 to stop): "));
     console.log("hello");
-    n++;
-    
-} while (n => 0);
+} while (num !== 0);
